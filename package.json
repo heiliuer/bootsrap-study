@@ -1,0 +1,9 @@
+{
+  "name": "bootstrap-learning",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1"
+  }
+}
