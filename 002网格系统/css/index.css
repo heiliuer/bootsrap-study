@@ -1,0 +1,27 @@
+#demo1 div {
+  color: #fff;
+}
+#demo1 div:nth-of-type(2n+1) {
+  background-color: #c00;
+}
+#demo1 div:nth-of-type(2n) {
+  background-color: #0c0;
+}
+#demo2 div {
+  color: #fff;
+}
+#demo2 div:nth-of-type(2n+1) {
+  background-color: #c00;
+}
+#demo2 div:nth-of-type(2n) {
+  background-color: #0c0;
+}
+#demo3 {
+  color: #fff;
+}
+#demo3:nth-of-type(2n+1) {
+  background-color: #c00;
+}
+#demo3:nth-of-type(2n) {
+  background-color: #0c0;
+}
